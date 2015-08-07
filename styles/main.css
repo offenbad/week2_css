@@ -30,3 +30,9 @@ button {
 	color: red;
 	background-color: #580444
 }
+p {
+	margin: 20px;
+	border: 1px solid black;
+	padding:20px;
+	width: 400px;
+}
